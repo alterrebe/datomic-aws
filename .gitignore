@@ -1,2 +1,5 @@
 *.sublime-*
+*.zip
+datomic.license
+license.*
 
